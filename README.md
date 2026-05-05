@@ -1,6 +1,8 @@
 # Sorting/Maze Visualizer Assignment
 
-A C++ [raylib](https://www.raylib.com/) algorithms visualizer built for school assignment
+A C++ [raylib](https://www.raylib.com/) algorithms visualizer built for school assign[ment
+
+[VIDEO DEMONSTRATION HERE](https://www.youtube.com/watch?v=AYm9PslDjlM)
 
 ---
 
