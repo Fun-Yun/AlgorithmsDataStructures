@@ -1,0 +1,10 @@
+﻿  MazeScene.cpp
+  SceneManager.cpp
+  SortScene.cpp
+  SortingManager.cpp
+C:\Users\escot\source\repos\AlgorithmsDataStructures\AlgorithmsDataStructures\SortScene.cpp(69,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\escot\source\repos\AlgorithmsDataStructures\AlgorithmsDataStructures\SortScene.cpp(161,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\escot\source\repos\AlgorithmsDataStructures\AlgorithmsDataStructures\SortScene.cpp(244,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  AlgorithmsDataStructures.vcxproj -> C:\Users\escot\source\repos\AlgorithmsDataStructures\x64\Debug\AlgorithmsDataStructures.exe

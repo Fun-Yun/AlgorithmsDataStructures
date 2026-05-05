@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|solutionrelative:AlgorithmsDataStructures\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\BarArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|solutionrelative:AlgorithmsDataStructures\\BarArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\SortScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|solutionrelative:AlgorithmsDataStructures\\SortScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\SortingManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|solutionrelative:AlgorithmsDataStructures\\SortingManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|solutionrelative:AlgorithmsDataStructures\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\MazeScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|solutionrelative:AlgorithmsDataStructures\\MazeScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\BarArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|solutionrelative:AlgorithmsDataStructures\\BarArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\MazeScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|solutionrelative:AlgorithmsDataStructures\\MazeScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\SortScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD397144-C804-4D97-8E19-7E809A65AFD0}|AlgorithmsDataStructures\\AlgorithmsDataStructures.vcxproj|solutionrelative:AlgorithmsDataStructures\\SortScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MazeScene.cpp",
+              "DocumentMoniker": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\MazeScene.cpp",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\MazeScene.cpp",
+              "ToolTip": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\MazeScene.cpp",
+              "RelativeToolTip": "AlgorithmsDataStructures\\MazeScene.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-30T13:04:49.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SortScene.h",
+              "DocumentMoniker": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\SortScene.h",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\SortScene.h",
+              "ToolTip": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\SortScene.h",
+              "RelativeToolTip": "AlgorithmsDataStructures\\SortScene.h",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-30T13:02:18.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SortingManager.h",
+              "DocumentMoniker": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\SortingManager.h",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\SortingManager.h",
+              "ToolTip": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\SortingManager.h",
+              "RelativeToolTip": "AlgorithmsDataStructures\\SortingManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-30T13:02:13.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SceneManager.h",
+              "DocumentMoniker": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\SceneManager.h",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\SceneManager.h",
+              "ToolTip": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\SceneManager.h",
+              "RelativeToolTip": "AlgorithmsDataStructures\\SceneManager.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-30T13:02:07.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MazeScene.h",
+              "DocumentMoniker": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\MazeScene.h",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\MazeScene.h",
+              "ToolTip": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\MazeScene.h",
+              "RelativeToolTip": "AlgorithmsDataStructures\\MazeScene.h",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAEUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-30T13:02:00.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BarArray.h",
+              "DocumentMoniker": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\BarArray.h",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\BarArray.h",
+              "ToolTip": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\BarArray.h",
+              "RelativeToolTip": "AlgorithmsDataStructures\\BarArray.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-30T13:01:31.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BarArray.cpp",
+              "DocumentMoniker": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\BarArray.cpp",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\BarArray.cpp",
+              "ToolTip": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\BarArray.cpp",
+              "RelativeToolTip": "AlgorithmsDataStructures\\BarArray.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-30T12:58:32.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\main.cpp",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\main.cpp",
+              "ToolTip": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\main.cpp",
+              "RelativeToolTip": "AlgorithmsDataStructures\\main.cpp",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-30T12:58:32.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SortScene.cpp",
+              "DocumentMoniker": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\SortScene.cpp",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\SortScene.cpp",
+              "ToolTip": "C:\\Users\\escot\\source\\repos\\AlgorithmsDataStructures\\AlgorithmsDataStructures\\SortScene.cpp",
+              "RelativeToolTip": "AlgorithmsDataStructures\\SortScene.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-30T12:58:32.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
