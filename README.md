@@ -174,4 +174,6 @@ Because I am still learning C++, I designed this project around small, readable 
 
 ## Reflection
 
+Learning about the different algorithms this project was a very interesting process that I enjoyed learning, however working in C++ and Raylib is still a challenge for me. Being quite a tedious, low level language to what I am used to, I am much more interested in applying these structures in future games (in Unreal/Unity). I believe I managed to achieve both the G/VG goals, providing a foundation to add in the remaining algorithms. Polish could be done on the UI/"graphics" too.
 
+I had to refer back tp the course documentation a lot, and especially use Google, Stack Overflow and Youtube tutorials to help me understand and implement them into Raylib/C++. While this helped with understanding the logic, I believe my code could be improved once I work in a language I am more comfortable in.
