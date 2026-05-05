@@ -1,6 +1,6 @@
-# Sorting + Maze Visualizer (AlgorithmsDataStructures)
+# Sorting/Maze Visualizer Assignment
 
-A C++ algorithms visualizer built with [raylib](https://www.raylib.com/).
+A C++ [raylib](https://www.raylib.com/) algorithms visualizer built
 
 ---
 
